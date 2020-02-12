@@ -1,0 +1,27 @@
+import java.util.*;
+ 
+public class contest1 {
+	
+	public static void main(String[] args) {
+    	Scanner s = new Scanner(System.in);
+    	int n = s.nextInt();
+    	ArrayList<String> list = new ArrayList<>();
+    	HashMap<String,Integer> map = new HashMap<>();
+    	for(int i=0;i<n;i++) {
+    		String w = s.next();
+    		if(map.containsKey(w)) {
+    			map.put(w, map.get(w)+1);
+    			String numberAsString = Integer.toString(map.get(w)-1);
+    			w = w.concat(numberAsString);
+    			list.add(w);
+    		}else {
+    			map.put(w, 1);
+    			list.add("OK");
+    		}
+    	}
+    	for(int i=0; i<n;i++) {
+    		System.out.println(list.get(i));
+    	}
+	}
+	
+}

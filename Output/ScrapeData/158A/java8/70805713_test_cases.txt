@@ -1,0 +1,238 @@
+
+
+
+
+
+1
+
+
+
+Time:216ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 5
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+2
+
+
+
+Time:248ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+4 2
+0 0 0 0
+
+
+Participant's output
+0
+
+
+Jury's answer
+0
+
+
+Checker comment
+ok 1 number(s): "0"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+3
+
+
+
+Time:186ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+5 1
+1 1 1 1 1
+
+
+Participant's output
+5
+
+
+Jury's answer
+5
+
+
+Checker comment
+ok 1 number(s): "5"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+4
+
+
+
+Time:216ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+5 5
+1 1 1 1 1
+
+
+Participant's output
+5
+
+
+Jury's answer
+5
+
+
+Checker comment
+ok 1 number(s): "5"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+5
+
+
+
+Time:186ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+1 1
+10
+
+
+Participant's output
+1
+
+
+Jury's answer
+1
+
+
+Checker comment
+ok 1 number(s): "1"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+6
+
+
+
+Time:248ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+17 14
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+
+
+Participant's output
+14
+
+
+Jury's answer
+14
+
+
+Checker comment
+ok 1 number(s): "14"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+7
+
+
+
+Time:248ms,memory:0KB
+
+Verdict:WRONG_ANSWER
+
+
+Input
+5 5
+3 2 1 0 0
+
+
+Participant's output
+0
+
+
+Jury's answer
+3
+
+
+Checker comment
+wrong answer 1st numbers differ - expected: '3', found: '0'
+
+
+Diagnostics
+?
+

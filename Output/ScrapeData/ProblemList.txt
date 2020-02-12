@@ -1,0 +1,3 @@
+"Count"|"ID"|"Name"|"Description"|"Difficulty"|"Total Solutions"|"Submissions"
+"1"|"4C"|"Registration System"|"https://codeforces.com/problemset/problem/4/C"|"1500"|"x992"|"https://codeforces.com/problemset/status/4/problem/C"
+"2"|"158A"|"Next Round"|"https://codeforces.com/problemset/problem/158/A"|"1800"|"x60"|"https://codeforces.com/problemset/status/158/problem/A"

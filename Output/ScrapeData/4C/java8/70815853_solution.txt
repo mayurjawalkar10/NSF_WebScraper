@@ -1,0 +1,57 @@
+import java.util.*;
+ 
+public class Main {
+    public static Scanner scanner = new Scanner(System.in);
+    public static person p;
+    public static ArrayList[] l= new ArrayList[26];
+    public static void main(String[] args) {
+        registration(scanner.nextInt());
+ 
+    }
+ 
+    public static void hashfunc(String s){
+        int index = s.charAt(0) % 'a';
+        boolean found = false;
+        if (l[index] == null){
+            l[index] = new ArrayList<person>();
+            p = new person(s,0);
+            l[index].add(p);
+            System.out.println("OK");
+            return;
+        }
+ 
+        for (int i=0; i<l[index].size(); i++){
+            if (s.equals(((person) l[index].get(i)).name)){
+                found =true;
+                ((person) l[index].get(i)).itir++;
+                System.out.println(((person) l[index].get(i)).name +((person) l[index].get(i)).itir );
+                return;
+            }
+            if (i == l[index].size()-1 && found == false){
+                p = new person(s,0);
+                l[index].add(p);
+                System.out.println("OK");
+            }
+        }
+    }
+ 
+    public static void registration(int n){
+        scanner.nextLine();
+        String s = null;
+        for (int i=0; i<n; i++){
+            s = scanner.nextLine();
+            hashfunc(s);
+ 
+        }
+ 
+    }
+    public static class person{
+        public String name;
+        public int itir;
+ 
+        public person(String name, int itir) {
+            this.name = name;
+            this.itir = itir;
+        }
+    }
+}

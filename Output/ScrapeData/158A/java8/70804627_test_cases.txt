@@ -1,0 +1,34 @@
+
+
+
+
+
+1
+
+
+
+Time:184ms,memory:0KB
+
+Verdict:WRONG_ANSWER
+
+
+Input
+8 5
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+7
+
+
+Jury's answer
+6
+
+
+Checker comment
+wrong answer 1st numbers differ - expected: '6', found: '7'
+
+
+Diagnostics
+?
+

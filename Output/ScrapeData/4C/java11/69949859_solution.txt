@@ -1,0 +1,19 @@
+import java.util.*;
+public class regis {
+public static void main(String[] args) {
+Scanner in = new Scanner(System.in);
+    int n = in.nextInt();
+    HashMap <String, Integer> user = new HashMap<String, Integer>();
+    for (int i = 0; i < n; i++) {
+        String a = in.next();
+        if(user.containsKey(a)){
+                user.computeIfPresent(a, (key,val)-> val+1);
+                System.out.println(a+user.get(a));
+            
+        }else{
+            user.put(a, 0);
+            System.out.println("OK");
+        }
+    }
+}
+}

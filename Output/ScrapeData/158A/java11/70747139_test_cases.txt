@@ -1,0 +1,34 @@
+
+
+
+
+
+1
+
+
+
+Time:310ms,memory:0KB
+
+Verdict:RUNTIME_ERROR
+
+
+Input
+8 5
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+
+
+
+Jury's answer
+
+
+
+Checker comment
+Exit code is 1
+
+
+Diagnostics
+?
+

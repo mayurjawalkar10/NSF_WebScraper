@@ -1,0 +1,23 @@
+import java.util.Scanner;
+ 
+public class NextRound {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		int k = sc.nextInt();		
+		int kValue = 0;
+		int count = 0;
+		for(int i = 0; i < n; i++) {
+			int temp = sc.nextInt();	
+			if(temp > 0) {
+				count++;				
+			}
+			if(i < k-1) continue;
+			if(i == k - 1) {
+				kValue = temp;
+			}
+			else if(temp < kValue) break;
+		}
+		System.out.println(count);
+	}
+}

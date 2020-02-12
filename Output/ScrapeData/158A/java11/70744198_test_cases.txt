@@ -1,0 +1,1700 @@
+
+
+
+
+
+1
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 5
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+2
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+4 2
+0 0 0 0
+
+
+Participant's output
+0
+
+
+Jury's answer
+0
+
+
+Checker comment
+ok 1 number(s): "0"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+3
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+5 1
+1 1 1 1 1
+
+
+Participant's output
+5
+
+
+Jury's answer
+5
+
+
+Checker comment
+ok 1 number(s): "5"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+4
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+5 5
+1 1 1 1 1
+
+
+Participant's output
+5
+
+
+Jury's answer
+5
+
+
+Checker comment
+ok 1 number(s): "5"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+5
+
+
+
+Time:312ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+1 1
+10
+
+
+Participant's output
+1
+
+
+Jury's answer
+1
+
+
+Checker comment
+ok 1 number(s): "1"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+6
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+17 14
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+
+
+Participant's output
+14
+
+
+Jury's answer
+14
+
+
+Checker comment
+ok 1 number(s): "14"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+7
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+5 5
+3 2 1 0 0
+
+
+Participant's output
+3
+
+
+Jury's answer
+3
+
+
+Checker comment
+ok 1 number(s): "3"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+8
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 6
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+9
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 7
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+8
+
+
+Jury's answer
+8
+
+
+Checker comment
+ok 1 number(s): "8"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+10
+
+
+
+Time:310ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 4
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+11
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 3
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+3
+
+
+Jury's answer
+3
+
+
+Checker comment
+ok 1 number(s): "3"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+12
+
+
+
+Time:310ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 1
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+1
+
+
+Jury's answer
+1
+
+
+Checker comment
+ok 1 number(s): "1"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+13
+
+
+
+Time:340ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+8 2
+10 9 8 7 7 7 5 5
+
+
+Participant's output
+2
+
+
+Jury's answer
+2
+
+
+Checker comment
+ok 1 number(s): "2"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+14
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+1 1
+100
+
+
+Participant's output
+1
+
+
+Jury's answer
+1
+
+
+Checker comment
+ok 1 number(s): "1"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+15
+
+
+
+Time:310ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+1 1
+0
+
+
+Participant's output
+0
+
+
+Jury's answer
+0
+
+
+Checker comment
+ok 1 number(s): "0"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+16
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 25
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+
+Participant's output
+50
+
+
+Jury's answer
+50
+
+
+Checker comment
+ok 1 number(s): "50"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+17
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 25
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+
+Participant's output
+25
+
+
+Jury's answer
+25
+
+
+Checker comment
+ok 1 number(s): "25"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+18
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 25
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+
+Participant's output
+26
+
+
+Jury's answer
+26
+
+
+Checker comment
+ok 1 number(s): "26"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+19
+
+
+
+Time:404ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 25
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+
+Participant's output
+50
+
+
+Jury's answer
+50
+
+
+Checker comment
+ok 1 number(s): "50"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+20
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+11 5
+100 99 98 97 96 95 94 93 92 91 90
+
+
+Participant's output
+5
+
+
+Jury's answer
+5
+
+
+Checker comment
+ok 1 number(s): "5"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+21
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 4
+100 81 70 69 64 43 34 29 15 3
+
+
+Participant's output
+4
+
+
+Jury's answer
+4
+
+
+Checker comment
+ok 1 number(s): "4"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+22
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+11 6
+87 71 62 52 46 46 43 35 32 25 12
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+23
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+17 12
+99 88 86 82 75 75 74 65 58 52 45 30 21 16 7 2 2
+
+
+Participant's output
+12
+
+
+Jury's answer
+12
+
+
+Checker comment
+ok 1 number(s): "12"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+24
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+20 3
+98 98 96 89 87 82 82 80 76 74 74 68 61 60 43 32 30 22 4 2
+
+
+Participant's output
+3
+
+
+Jury's answer
+3
+
+
+Checker comment
+ok 1 number(s): "3"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+25
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+36 12
+90 87 86 85 83 80 79 78 76 70 69 69 61 61 59 58 56 48 45 44 42 41 33 31 27 25 23 21 20 19 15 14 12 7 5 5
+
+
+Participant's output
+12
+
+
+Jury's answer
+12
+
+
+Checker comment
+ok 1 number(s): "12"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+26
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+49 8
+99 98 98 96 92 92 90 89 89 86 86 85 83 80 79 76 74 69 67 67 58 56 55 51 49 47 47 46 45 41 41 40 39 34 34 33 25 23 18 15 13 13 11 9 5 4 3 3 1
+
+
+Participant's output
+9
+
+
+Jury's answer
+9
+
+
+Checker comment
+ok 1 number(s): "9"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+27
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+49 29
+100 98 98 96 96 96 95 87 85 84 81 76 74 70 63 63 63 62 57 57 56 54 53 52 50 47 45 41 41 39 38 31 30 28 27 26 23 22 20 15 15 11 7 6 6 4 2 1 0
+
+
+Participant's output
+29
+
+
+Jury's answer
+29
+
+
+Checker comment
+ok 1 number(s): "29"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+28
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+49 34
+99 98 96 96 93 92 90 89 88 86 85 85 82 76 73 69 66 64 63 63 60 59 57 57 56 55 54 54 51 48 47 44 42 42 40 39 38 36 33 26 24 23 19 17 17 14 12 7 4
+
+
+Participant's output
+34
+
+
+Jury's answer
+34
+
+
+Checker comment
+ok 1 number(s): "34"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+29
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 44
+100 100 99 97 95 91 91 84 83 83 79 71 70 69 69 62 61 60 59 59 58 58 58 55 55 54 52 48 47 45 44 44 38 36 32 31 28 28 25 25 24 24 24 22 17 15 14 13 12 4
+
+
+Participant's output
+44
+
+
+Jury's answer
+44
+
+
+Checker comment
+ok 1 number(s): "44"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+30
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 13
+99 95 94 94 88 87 81 79 78 76 74 72 72 69 68 67 67 67 66 63 62 61 58 57 55 55 54 51 50 50 48 48 42 41 38 35 34 32 31 30 26 24 13 13 12 6 5 4 3 3
+
+
+Participant's output
+13
+
+
+Jury's answer
+13
+
+
+Checker comment
+ok 1 number(s): "13"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+31
+
+
+
+Time:248ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 30
+100 98 96 94 91 89 88 81 81 81 81 81 76 73 72 71 70 69 66 64 61 59 59 56 52 50 49 48 43 39 36 35 34 34 31 29 27 26 24 22 16 16 15 14 14 14 9 7 4 3
+
+
+Participant's output
+30
+
+
+Jury's answer
+30
+
+
+Checker comment
+ok 1 number(s): "30"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+32
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+2 1
+10 10
+
+
+Participant's output
+2
+
+
+Jury's answer
+2
+
+
+Checker comment
+ok 1 number(s): "2"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+33
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+2 2
+10 10
+
+
+Participant's output
+2
+
+
+Jury's answer
+2
+
+
+Checker comment
+ok 1 number(s): "2"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+34
+
+
+
+Time:310ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+2 2
+10 0
+
+
+Participant's output
+1
+
+
+Jury's answer
+1
+
+
+Checker comment
+ok 1 number(s): "1"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+35
+
+
+
+Time:278ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+2 2
+10 1
+
+
+Participant's output
+2
+
+
+Jury's answer
+2
+
+
+Checker comment
+ok 1 number(s): "2"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+36
+
+
+
+Time:340ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+2 1
+10 0
+
+
+Participant's output
+1
+
+
+Jury's answer
+1
+
+
+Checker comment
+ok 1 number(s): "1"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+37
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+2 1
+10 2
+
+
+Participant's output
+1
+
+
+Jury's answer
+1
+
+
+Checker comment
+ok 1 number(s): "1"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+38
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 13
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Participant's output
+0
+
+
+Jury's answer
+0
+
+
+Checker comment
+ok 1 number(s): "0"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+39
+
+
+
+Time:310ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Participant's output
+0
+
+
+Jury's answer
+0
+
+
+Checker comment
+ok 1 number(s): "0"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+40
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+50 50
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Participant's output
+0
+
+
+Jury's answer
+0
+
+
+Checker comment
+ok 1 number(s): "0"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+41
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 1
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+3
+
+
+Jury's answer
+3
+
+
+Checker comment
+ok 1 number(s): "3"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+42
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 2
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+3
+
+
+Jury's answer
+3
+
+
+Checker comment
+ok 1 number(s): "3"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+43
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 3
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+3
+
+
+Jury's answer
+3
+
+
+Checker comment
+ok 1 number(s): "3"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+44
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 4
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+45
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 5
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+46
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 6
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+47
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 7
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+48
+
+
+
+Time:310ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 8
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+49
+
+
+
+Time:340ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 9
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+
+
+
+
+
+
+50
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+10 10
+5 5 5 3 3 3 0 0 0 0
+
+
+Participant's output
+6
+
+
+Jury's answer
+6
+
+
+Checker comment
+ok 1 number(s): "6"
+
+
+Diagnostics
+?
+

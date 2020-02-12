@@ -1,0 +1,47 @@
+
+
+
+
+
+1
+
+
+
+Time:186ms,memory:3472KB
+
+Verdict:WRONG_ANSWER
+
+
+Input
+4
+abacaba
+acaba
+abacaba
+acab
+
+
+Participant's output
+OK
+OK
+abacaba1
+OK
+abacaba
+acaba
+abacaba
+acab
+
+
+Jury's answer
+OK
+OK
+abacaba1
+OK
+
+
+Checker comment
+wrong output format Extra information in the output file
+
+
+Diagnostics
+?
+

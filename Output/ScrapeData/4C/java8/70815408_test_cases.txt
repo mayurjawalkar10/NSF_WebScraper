@@ -1,0 +1,44 @@
+
+
+
+
+
+1
+
+
+
+Time:154ms,memory:3468KB
+
+Verdict:WRONG_ANSWER
+
+
+Input
+4
+abacaba
+acaba
+abacaba
+acab
+
+
+Participant's output
+97
+OK
+OK
+abacaba1
+OK
+
+
+Jury's answer
+OK
+OK
+abacaba1
+OK
+
+
+Checker comment
+wrong answer 1st words differ - expected: 'OK', found: '97'
+
+
+Diagnostics
+?
+

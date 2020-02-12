@@ -1,0 +1,45 @@
+
+
+
+
+
+1
+
+
+
+Time:184ms,memory:3492KB
+
+Verdict:WRONG_ANSWER
+
+
+Input
+4
+abacaba
+acaba
+abacaba
+acab
+
+
+Participant's output
+OK
+OK
+acaba1
+abacaba1
+OK
+acab1
+
+
+Jury's answer
+OK
+OK
+abacaba1
+OK
+
+
+Checker comment
+wrong answer 3rd words differ - expected: 'abacaba1', found: 'acaba1'
+
+
+Diagnostics
+?
+

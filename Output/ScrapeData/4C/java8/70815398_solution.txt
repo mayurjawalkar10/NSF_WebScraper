@@ -1,0 +1,48 @@
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Scanner;
+ 
+public class Main {
+    public static Scanner scanner = new Scanner(System.in);
+    public static LinkedList[] l= new LinkedList[26];
+    public static void main(String[] args) {
+        
+        registration(scanner.nextInt());
+        for (int j =0; j<l[0].size(); j++){
+            System.out.println(l[0].get(j));
+        }
+    }
+ 
+    public static void hashfunc(String s){
+        int index = s.charAt(0) % 'a';
+        int itir=0;
+        if (l[index] == null)
+            l[index] = new LinkedList<String>();
+ 
+        for (int i=0; i<l[index].size(); i++){
+            if (s.equals(l[index].get(i)))
+                itir++;
+        }
+        l[index].add(s);
+        if (itir ==0){
+            System.out.println("OK");
+        }else {
+            System.out.println(s +itir);
+        }
+        
+ 
+ 
+    }
+ 
+    public static void registration(int n){
+        scanner.nextLine();
+        String s = null;
+        for (int i=0; i<n; i++){
+            s = scanner.nextLine();
+            hashfunc(s);
+ 
+        }
+ 
+    }
+}

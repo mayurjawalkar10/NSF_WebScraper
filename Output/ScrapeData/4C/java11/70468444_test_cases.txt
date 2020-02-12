@@ -1,0 +1,203 @@
+
+
+
+
+
+1
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+4
+abacaba
+acaba
+abacaba
+acab
+
+
+Participant's output
+OK
+OK
+abacaba1
+OK
+
+
+Jury's answer
+OK
+OK
+abacaba1
+OK
+
+
+Checker comment
+ok 4 words
+
+
+Diagnostics
+?
+
+
+
+
+
+
+2
+
+
+
+Time:374ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+6
+first
+first
+second
+second
+third
+third
+
+
+Participant's output
+OK
+first1
+OK
+second1
+OK
+third1
+
+
+Jury's answer
+OK
+first1
+OK
+second1
+OK
+third1
+
+
+Checker comment
+ok 6 words
+
+
+Diagnostics
+?
+
+
+
+
+
+
+3
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+1
+n
+
+
+Participant's output
+OK
+
+
+Jury's answer
+OK
+
+
+Checker comment
+ok OK
+
+
+Diagnostics
+?
+
+
+
+
+
+
+4
+
+
+
+Time:342ms,memory:0KB
+
+Verdict:OK
+
+
+Input
+2
+u
+u
+
+
+Participant's output
+OK
+u1
+
+
+Jury's answer
+OK
+u1
+
+
+Checker comment
+ok 2 words
+
+
+Diagnostics
+?
+
+
+
+
+
+
+5
+
+
+
+Time:372ms,memory:0KB
+
+Verdict:WRONG_ANSWER
+
+
+Input
+3
+b
+b
+b
+
+
+Participant's output
+OK
+b1
+b12
+
+
+Jury's answer
+OK
+b1
+b2
+
+
+Checker comment
+wrong answer 3rd words differ - expected: 'b2', found: 'b12'
+
+
+Diagnostics
+?
+

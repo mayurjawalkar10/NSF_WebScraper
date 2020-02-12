@@ -1,0 +1,33 @@
+import java.util.Scanner;
+ 
+public class Solution4C{
+	public static void main(String[] args){
+		Scanner scanner = new Scanner(System.in);
+		int n = scanner.nextInt();
+		String[] arr = new String[n];
+		int newNumber=1;
+		
+		//nactu prvky
+		for(int i=0; i<arr.length; i++){
+			arr[i]=scanner.next();
+			
+			for(int o=0; o<i; o++){
+				if(arr[o].equals(arr[i])) {
+					arr[i]+=Integer.toString(newNumber);
+					newNumber++;
+				}
+			}
+			newNumber=1;
+		}
+		
+		//vypisu prvky
+		
+		for(int i=0; i<arr.length; i++){
+			if(("0123456789".indexOf(arr[i].charAt(arr[i].length()-1)))!=-1){
+				System.out.println(arr[i]);
+			} else{
+				System.out.println("OK");
+			}
+		}			
+	}
+}
